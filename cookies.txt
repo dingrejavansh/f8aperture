@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+f8aperture.odoo.com	TRUE	/	FALSE	1999999999	frontend_lang	en_IN
+f8aperture.odoo.com	TRUE	/	FALSE	1999999999	session_id	tbCOtzLA_NTU7BaU-ONK2Lid3w2kdFS8jr9kBXW2m2DFrnaPLech6_1p8B_Fb-YYE_VgkrouGxuK2tasPFxv
+f8aperture.odoo.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

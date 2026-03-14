@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 12 Mar 2026 11:58:19 at https://f8aperture.odoo.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://f8aperture.odoo.com/ -O1 "D:\f8aperture htttrack\F8aperture" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:59:35	Error: 	"NOT FOUND" (404) at link https://f8aperture.odoo.com/ig.me (from https://f8aperture.odoo.com/)
+11:59:35	Error: 	"NOT FOUND" (404) at link https://f8aperture.odoo.com/fb.me (from https://f8aperture.odoo.com/)
+11:59:35	Error: 	"NOT FOUND" (404) at link https://f8aperture.odoo.com/google.com.au (from https://f8aperture.odoo.com/)
+11:59:35	Error: 	"NOT FOUND" (404) at link https://f8aperture.odoo.com/google.me (from https://f8aperture.odoo.com/)
+11:59:35	Error: 	"NOT FOUND" (404) at link https://f8aperture.odoo.com/google.pl (from https://f8aperture.odoo.com/)
+11:59:35	Error: 	"NOT FOUND" (404) at link https://f8aperture.odoo.com/google.ps (from https://f8aperture.odoo.com/)
+11:59:35	Error: 	"NOT FOUND" (404) at link https://f8aperture.odoo.com/google.com.tr (from https://f8aperture.odoo.com/)
+11:59:39	Error: 	"NOT FOUND" (404) at link https://f8aperture.odoo.com/"/web/image/1311-8ce3510a/pexels-cottonbro-3584931.webp" (from https://f8aperture.odoo.com/)
+11:59:39	Error: 	"NOT FOUND" (404) at link https://f8aperture.odoo.com/"/html_editor/shape/html_builder/Connections/13.svg?c5=rgb%28255%2C255%2C255%29%22 (from https://f8aperture.odoo.com/)
+11:59:39	Error: 	"NOT FOUND" (404) at link https://f8aperture.odoo.com/"/web/image/1321-61b0a90e/pexels-hikaique-90368.webp" (from https://f8aperture.odoo.com/)
+11:59:39	Error: 	"UNPROCESSABLE ENTITY" (422) at link https://f8aperture.odoo.com/html_editor/image_shape/website.s_closer_look_default_image/html_builder/devices/macbook_front.svg (from https://f8aperture.odoo.com/)
+11:59:41	Error: 	"NOT FOUND" (404) at link https://f8aperture.odoo.com/"/html_editor/shape/html_builder%2FRainy%2F10.svg?c1=%23337ab7&c3=%23CED4DA%22 (from https://f8aperture.odoo.com/)
+11:59:44	Error: 	"NOT FOUND" (404) at link https://f8aperture.odoo.com/'/web/image/website.s_parallax_default_image' (from https://f8aperture.odoo.com/contactus)
+11:59:44	Error: 	"NOT FOUND" (404) at link https://f8aperture.odoo.com/"/web/image/1312-366b2845/pexels-cottonbro-4966173.webp" (from https://f8aperture.odoo.com/product-photography)
+11:59:44	Error: 	"NOT FOUND" (404) at link https://f8aperture.odoo.com/"/web/image/1313-0b2632d0/pexels-cottonbro-3584931.webp" (from https://f8aperture.odoo.com/food-photography)
+11:59:44	Error: 	"NOT FOUND" (404) at link https://f8aperture.odoo.com/"/web/image/1314-ffa4f4f6/pexels-hikaique-90368.webp" (from https://f8aperture.odoo.com/architecture-photography)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 25 seconds : 352 links scanned, 335 files written (7137835 bytes overall) [6535665 bytes received at 76890 bytes/sec], 1462965 bytes transferred using HTTP compression in 29 files, ratio 21%, 90.0 requests per connection
+(16 errors, 0 warnings, 0 messages)
